@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kingpreyansh.github.io/React-Expense-Tracker/static/css/main.2c34cdb1.chunk.css",
+    "main.js": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/main.918dd76e.chunk.js",
+    "main.js.map": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/main.918dd76e.chunk.js.map",
+    "runtime-main.js": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/runtime-main.b9d5b1ca.js",
+    "runtime-main.js.map": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/runtime-main.b9d5b1ca.js.map",
+    "static/js/2.d435cba6.chunk.js": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/2.d435cba6.chunk.js",
+    "static/js/2.d435cba6.chunk.js.map": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/2.d435cba6.chunk.js.map",
+    "index.html": "/kingpreyansh.github.io/React-Expense-Tracker/index.html",
+    "static/css/main.2c34cdb1.chunk.css.map": "/kingpreyansh.github.io/React-Expense-Tracker/static/css/main.2c34cdb1.chunk.css.map",
+    "static/js/2.d435cba6.chunk.js.LICENSE.txt": "/kingpreyansh.github.io/React-Expense-Tracker/static/js/2.d435cba6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d5b1ca.js",
+    "static/js/2.d435cba6.chunk.js",
+    "static/css/main.2c34cdb1.chunk.css",
+    "static/js/main.918dd76e.chunk.js"
+  ]
+}
